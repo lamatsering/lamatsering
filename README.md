@@ -15,21 +15,24 @@ I am passionate about building reliable systems, automating manual work, and imp
 
 ## 🚀 Featured Projects
 
-### Cloud Monitoring Stack
-Built a monitoring stack using Prometheus, Grafana, Alertmanager, and Node Exporter to track server health, CPU, memory, disk usage, and service availability.
+### 🔹 Cloud Monitoring Stack
+📌 GitHub: https://github.com/lamatsering/cloud-monitoring-stack  
+Built a monitoring stack using Prometheus, Grafana, Alertmanager, and Node Exporter to track server health and alerts.
 
-### CI/CD Pipeline Automation
-Designed CI/CD workflows using Jenkins and GitHub Actions to automate build, test, and deployment processes.
+### 🔹 CI/CD Pipeline Automation
+📌 GitHub: https://github.com/lamatsering/ci-cd-pipeline  
+Designed CI/CD workflows using Jenkins and GitHub Actions to automate deployment.
 
-### AWS Infrastructure Automation
-Created Terraform-based AWS infrastructure to provision cloud resources in a repeatable and scalable way.
-
-### Incident Response Runbooks
-Documented troubleshooting steps for production issues, alerts, outages, and rollback scenarios.
+### 🔹 AWS Infrastructure Automation
+📌 GitHub: https://github.com/lamatsering/terraform-aws-infra  
+Provisioned AWS infrastructure using Terraform with reusable modules.
 
 ## 📌 Career Focus
 
-I am focused on Cloud Engineering, Site Reliability Engineering, DevOps, and Technical Support roles where I can improve reliability, automate operations, and support production systems at scale.
+## 📈 Currently Working On
+- Building a production-grade monitoring stack using Prometheus & Grafana
+- Creating Terraform modules for AWS infrastructure automation
+- Improving alerting and incident response workflows
 
 ## 📫 Connect with Me
 
