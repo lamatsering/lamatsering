@@ -29,7 +29,7 @@ Provisioned AWS infrastructure using Terraform with reusable modules.
 
 ## 📌 Career Focus
 
-## 📈 Currently Working On
+📈 Currently Working On
 - Building a production-grade monitoring stack using Prometheus & Grafana
 - Creating Terraform modules for AWS infrastructure automation
 - Improving alerting and incident response workflows
