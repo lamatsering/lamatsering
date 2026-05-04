@@ -1,6 +1,6 @@
 # Hi, I'm Tsering Lama 👋
 
-🚀 Cloud Engineer | Site Reliability Engineer | DevOps Enthusiast
+Cloud and Site Reliability Engineer with experience in production support, incident management, and automation. Focused on improving system reliability, reducing downtime, and building scalable cloud solutions using AWS and DevOps practices.
 
 I am passionate about building reliable systems, automating manual work, and improving cloud operations through monitoring, CI/CD, and infrastructure automation.
 
